@@ -6,20 +6,16 @@ This refactoring of the marketing agency's, Horiseon's, webpage allows the page 
 
 
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+Link to the deployed application:
+https://sheaschwenn.github.io/Code-Refactor-c1/ 
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
 
 ## Usage 
+Screenshot of final page:
 
-```md
-![Updated marketing webpage](images\Horiseon-screenshot.png "Finsihed webpage screenshot")
-
-```
+![Updated Horiseon marketing webpage](/Code-Refactor-c1/images/Horiseon-screenshot.png "Finsihed webpage screenshot")
 
 ## Credits
 
