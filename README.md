@@ -15,7 +15,7 @@ https://sheaschwenn.github.io/Code-Refactor-c1/
 ## Usage 
 Screenshot of final page:
 
-![Updated Horiseon marketing webpage](images\Horiseon-screenshot.png "Finsihed webpage screenshot")
+![Updated Horiseon marketing webpage][def]
 
 ## Credits
 
@@ -40,3 +40,6 @@ N/A
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+[def]: images\Horiseon-screenshot.png "Finsihed webpage screenshot"
+[def2]: images\Horiseon-screenshot.png
