@@ -17,7 +17,7 @@ If you need an example of a good README, check out [the VSCode repository](https
 ## Usage 
 
 ```md
-![Updated marketing webpage](Code-Refactor-c1\Horiseon-screenshot.png)
+![Updated marketing webpage](Code-Refactor-c1\images\Horiseon-screenshot.png "Finsihed webpage screenshot")
 
 ```
 
