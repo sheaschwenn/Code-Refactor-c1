@@ -15,7 +15,7 @@ https://sheaschwenn.github.io/Code-Refactor-c1/
 ## Usage 
 Screenshot of final page:
 
-![Updated Horiseon marketing webpage](/Code-Refactor-c1/images/Horiseon-screenshot.png "Finsihed webpage screenshot")
+![Updated Horiseon marketing webpage](images\Horiseon-screenshot.png "Finsihed webpage screenshot")
 
 ## Credits
 
